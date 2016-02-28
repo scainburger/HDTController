@@ -1,0 +1,5 @@
+c:\users\sean\documents\visual studio 2015\Projects\HDTcontroller\HDTcontroller\bin\Debug\HDTcontroller.dll
+c:\users\sean\documents\visual studio 2015\Projects\HDTcontroller\HDTcontroller\bin\Debug\HDTcontroller.pdb
+c:\users\sean\documents\visual studio 2015\Projects\HDTcontroller\HDTcontroller\obj\Debug\HDTcontroller.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2015\Projects\HDTcontroller\HDTcontroller\obj\Debug\HDTcontroller.dll
+c:\users\sean\documents\visual studio 2015\Projects\HDTcontroller\HDTcontroller\obj\Debug\HDTcontroller.pdb
